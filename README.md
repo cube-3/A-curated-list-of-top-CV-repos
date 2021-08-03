@@ -23,3 +23,5 @@ Collection of top Computer Vision repositories & Research Groups
 | 🖊️ Name of the repo | 📄 Details | ⭐Stars 
 | 🖊️ Name of the repo | 📄 Details | ⭐Stars 
 | 🖊️ Name of the repo | 📄 Details | ⭐Stars 
+## Top Computer Vision Research and Labs around the world
+## Computer Vision Startups and Industrial applications

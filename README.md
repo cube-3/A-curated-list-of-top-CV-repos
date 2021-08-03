@@ -1,5 +1,5 @@
-# A-curated-list-of-top-CV-repos
-Collection of top Computer Vision Repositories 
+# List of Computer Vision repositories and Research
+Collection of top Computer Vision repositories & Research Groups 
 ## Computer Vision  
 ### Methods & Links to Repos based on Stars and popularity 
 | 🖊️ Name of the repo | 📄 Details | ⭐Stars 
